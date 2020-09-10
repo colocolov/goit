@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+  padding: 40px 20px;
+}
+.wrapper {
+  background-color: #fff;
+  display: flex;
+  max-width: 1280px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.photo {
+  width: 370px;
+}
+.about-container {
+  padding: 110px 90px;
+}
+.contacts-container,
+.tech-container,
+.soft-container {
+  margin-top: 55px;
+  margin-left: 40px;
+}
+.contacts-title,
+.tech-title,
+.soft-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #434c5a;
+}
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+}
+.ul-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+.span-item {
+  color: #d8dadd;
+}
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 13px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+}
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+  max-width: 600px;
+}
+.info-container {
+  padding-bottom: 65px;
+}
+.description-section {
+  margin-bottom: 55px;
+}
+.title-section {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.dots {
+  color: #bebebe;
+  font-weight: 100;
+}
+.project-item {
+  font-weight: 700;
+  margin-left: 18px;
+}
+.prof-title {
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 8px;
+  margin-bottom: 9px;
+}
+.color-title {
+  color: #ff6b08;
+}
+.period {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.duties {
+  margin-top: 9px;
+  margin-bottom: 30px;
+  margin-left: 17px;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.separ {
+  color: #000;
+  padding: 0 5px;
+}
